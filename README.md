@@ -29,3 +29,37 @@ The objective of this project is to generate coherent evaluative text using deep
 
 1. Open the notebook in Google Colab
 2. Install dependencies (if required):
+3. Run all cells sequentially
+
+---
+
+## 📊 Datasets Used
+
+- WikiText-2 (Salesforce)
+- IMDb Movie Reviews (Hugging Face)
+
+---
+
+## 🔁 Reproducibility
+
+The repository includes:
+- Model configurations
+- Training parameters
+- Evaluation metrics
+
+See `outputs/reproducibility_log_imdb.md` for details.
+
+---
+
+## 📌 Key Findings
+
+- LSTM outperformed Transformer under constrained training conditions
+- Tokenisation strategy had a greater impact than model architecture
+- BPE significantly improved output quality and reduced unknown tokens
+- Generative models show limitations in maintaining long-range coherence
+
+---
+
+## 📧 Author
+
+Levy Thiga Kariuki
