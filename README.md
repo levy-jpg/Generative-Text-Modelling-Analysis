@@ -64,4 +64,4 @@ See `outputs/reproducibility_log_imdb.md` for details.
 
 ## 📧 Author
 
-Levy Thiga Kariuki
+Levy Thiga Kariuki - MSc Artificial Intelligence
