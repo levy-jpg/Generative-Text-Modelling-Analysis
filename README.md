@@ -57,6 +57,9 @@ See `outputs/reproducibility_log_imdb.md` for details.
 - BPE significantly improved output quality and reduced unknown tokens
 - Generative models show limitations in maintaining long-range coherence
 
+<img width="876" height="516" alt="image" src="https://github.com/user-attachments/assets/ccc65cb8-7ae6-403f-92d4-7c41bdaed6ad" />
+
+
 ---
 
 ## 📧 Author
