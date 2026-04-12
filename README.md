@@ -19,8 +19,7 @@ The objective of this project is to generate coherent evaluative text using deep
 
 - `notebook/` – Full implementation and experiments
 - `tokenizer/` – Trained BPE tokenizer
-- `outputs/` – Reproducibility logs and generated samples
-- `models/` – Model weights (if included)
+- `outputs/` – Reproducibility logs
 - `figures/` – Diagrams used in the report
 
 ---
